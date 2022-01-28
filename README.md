@@ -23,6 +23,14 @@ https://www.freepik.com/
 
 2. 두번째
 
+- 뉴스레터 html 파일 내 <body></body> 태그를 copy하여 paste 한다.
+```
+<body class="body" style="padding:0 !important; margin:0 !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none;">
+...
+</body>
+```
+![image](https://user-images.githubusercontent.com/92982812/151468312-d68f1c96-f581-4d9e-b8a4-503290b8e144.png)
+
 ![image](https://user-images.githubusercontent.com/92982812/151466424-8ab859a2-9b12-4dbd-9a15-171ef8cda4a3.png)
 
 3. 세번째
