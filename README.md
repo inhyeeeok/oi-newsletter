@@ -15,3 +15,15 @@ https://www.freepik.com/
 01월2주차|20220107|강준수||
 12월4주차|20211224|한태준|크리스마스|
 12월2주차|20211210|강준수|최초발송|
+
+1. 첫번째 
+![image](https://user-images.githubusercontent.com/92982812/151466379-5b28e580-2479-4001-8f91-0dab0fd77a59.png)
+
+2. 두번째
+![image](https://user-images.githubusercontent.com/92982812/151466424-8ab859a2-9b12-4dbd-9a15-171ef8cda4a3.png)
+
+3. 세번째
+![image](https://user-images.githubusercontent.com/92982812/151466474-207320f5-24d1-4060-b91f-a9046af49c82.png)
+
+참고 사이트 
+https://brunch.co.kr/@andrewyhc/119
